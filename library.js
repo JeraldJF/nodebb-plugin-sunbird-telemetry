@@ -1,4 +1,4 @@
-var user = module.parent.require('./user')
+var user = module.parent.require('./src/user')
 var Plugin = (module.exports = {})
 const axios = require('axios')
 const { v4: uuidv4 } = require('uuid')
