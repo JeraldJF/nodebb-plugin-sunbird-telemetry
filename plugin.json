@@ -1,8 +1,8 @@
 {
 	"id": "nodebb-plugin-telemetry-plugin",
-	"name": "My Plugin ror nodebb",
+	"name": "My Plugin for nodebb",
 	"description": "My Plugin for nodebb",
-	"url": "https://github.com/JeraldJF-plugin-sunbird-telemetry",
+	"url": "https://github.com/Sunbird-Ed/nodebb-plugin-sunbird-telemetry",
 	"hooks": [
 		{ "hook": "static:app.load", "method": "load" },
 		{ "hook": "filter:admin.header.build", "method": "admin.menu" },

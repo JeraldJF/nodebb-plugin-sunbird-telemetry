@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-telemetry-plugin",
-  "version": "2.0.4",
+  "version": "8.2.0",
   "description": "",
   "main": "library.js",
   "scripts": {
